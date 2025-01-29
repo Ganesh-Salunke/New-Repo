@@ -1,2 +1,3 @@
 # New-Repo
-This is first repository
+This is first repository.
+first commit
